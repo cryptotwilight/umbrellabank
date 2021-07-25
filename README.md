@@ -6,7 +6,7 @@
 <br/>With Umbrella Bank you can separate yourself from your money, holding multiple currencies in a single denominated bank. 
 <br/>What's more exciting is you can add support for more currencies as you acquire them and the Umbrella Protocol will provide you with up to date information on your balances. 
 
-Kovan Configuration
+**Kovan Configuration**
 
 Addresses 
 Umbrella Reference Data: 0x2313aa82F8bEA5aC9e7404Ef502b4F474f0c8fc8 
