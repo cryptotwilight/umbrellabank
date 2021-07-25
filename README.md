@@ -6,6 +6,8 @@
 <br/>With Umbrella Bank you can separate yourself from your money, holding multiple currencies in a single denominated bank. 
 <br/>What's more exciting is you can add support for more currencies as you acquire them and the Umbrella Protocol will provide you with up to date information on your balances. 
 
+![Umbrella Bank Video](https://youtu.be/ahFNaaNAvNQ)
+
 **Kovan Configuration**
 
 Addresses 
